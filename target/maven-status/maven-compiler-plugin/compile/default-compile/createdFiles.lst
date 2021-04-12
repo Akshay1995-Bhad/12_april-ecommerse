@@ -1,0 +1,10 @@
+com\myprimeshop\ExtentReport\ExtentReporterNG.class
+com\utilities\TestUtil.class
+com\utilities\ExcelSheetUtilityClass.class
+com\utilities\JavaScriptUtil.class
+com\utilities\JxlExcelSheetUtility.class
+com\myprimeshop\testbase\TestBase.class
+com\utilities\WebEventListener.class
+com\myprimeshop\object\Repository\catagoriesPageObjectRepository.class
+com\catagoriesPage\categoriesPage.class
+com\utilities\PropertiesUtility.class

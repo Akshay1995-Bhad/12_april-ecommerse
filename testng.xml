@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="my prime shop ecommerse online web application Suite">
+	<listeners>
+		<listener
+			class-name="com.myprimeshop.ExtentReport.ExtentReporterNG"></listener>			
+	</listeners>
+	<test name="my prime shop Test Cases">
+		<classes>
+			<class name="com.TestCategoriesPage.CategoriesPageTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
