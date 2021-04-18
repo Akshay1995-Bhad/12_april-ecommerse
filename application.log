@@ -184,3 +184,6 @@
 2021-04-18 19:37:33,126 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
 2021-04-18 19:37:33,126 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
 2021-04-18 19:37:33,126 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Akshay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-04-18 23:45:13,743  INFO [main] TestBase:33 - cross btn is clicked
+2021-04-18 23:45:13,939  INFO [main] TestBase:37 - category btn is clicked
+2021-04-18 23:45:13,960  INFO [main] TestBase:43 - Page title matched::MyShopPrime
