@@ -130,3 +130,57 @@
 2021-04-12 19:25:29,871  INFO [main] TestBase:219 - MyShopPrime
 2021-04-12 19:25:29,871  INFO [main] TestBase:220 - MyShopPrime
 2021-04-12 19:25:29,872  INFO [main] TestBase:222 - Page Header Matched::MyShopPrime
+2021-04-18 18:25:54,256 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-04-18 18:25:54,287 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-04-18 18:25:54,287 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-04-18 18:25:54,287 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-04-18 18:25:54,287 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Akshay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-04-18 18:25:54,662 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-04-18 18:25:54,662 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-04-18 18:25:54,662 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-04-18 18:25:54,662 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-04-18 18:25:54,662 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Akshay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-04-18 19:21:59,776 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-04-18 19:21:59,790 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-04-18 19:21:59,790 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-04-18 19:21:59,790 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-04-18 19:21:59,790 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Akshay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-04-18 19:22:00,244 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-04-18 19:22:00,245 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-04-18 19:22:00,246 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-04-18 19:22:00,247 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-04-18 19:22:00,247 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Akshay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-04-18 19:26:04,882 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-04-18 19:26:04,882 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-04-18 19:26:04,882 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-04-18 19:26:04,882 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-04-18 19:26:04,882 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Akshay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-04-18 19:26:05,227 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-04-18 19:26:05,227 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-04-18 19:26:05,228 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-04-18 19:26:05,228 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-04-18 19:26:05,229 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Akshay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-04-18 19:32:18,921  INFO [main] TestBase:33 - cross btn is clicked
+2021-04-18 19:32:19,129  INFO [main] TestBase:37 - category btn is clicked
+2021-04-18 19:32:19,145  INFO [main] TestBase:43 - Page title matched::MyShopPrime
+2021-04-18 19:33:02,348  INFO [main] TestBase:64 - Page Header Matched::[Women, Men, Baby & Kids, Home & Living]
+2021-04-18 19:33:50,102  INFO [main] TestBase:106 - Page women products is Matched::[Ethnic Wear, Western Wear, Jewellery, Watches & Wearables, Winter Wear]
+2021-04-18 19:34:14,380  INFO [main] TestBase:129 - Page product wallet is Matched::[Essential Genuine Leather Solid Wallet, Trendy PU Black Chip ATM Wallet For Men, Trendy PU Card Holder Wallet]
+2021-04-18 19:34:23,185  INFO [main] TestBase:151 - Page products in messenger and duffles is Matched::[ADK Red color Sling-Messenger Bag-AD-BAG-001, ADK Black color Silb-Messenge Bag-AD-BAG-002, ADK Tan color Silng-Messenge Bag-AD-BAG-003, ADK Dark Blue color Silng-Messenge Bag-]
+2021-04-18 19:36:50,541  INFO [main] TestBase:214 - Address saved successfully
+2021-04-18 19:36:58,094  INFO [main] TestBase:219 - MyShopPrime
+2021-04-18 19:36:58,094  INFO [main] TestBase:220 - MyShopPrime
+2021-04-18 19:36:58,094  INFO [main] TestBase:222 - Page Header Matched::MyShopPrime
+2021-04-18 19:37:19,526  INFO [main] TestBase:243 - [Saree Color : Light Blue, Saree Fabric: Georgette, Saree Length : 5.3 mtr, Saree Work : Printed, Blouse Color : Blue, Blouse Fabric : Georgette, Blouse Length : 0.7 mtr, Blouse Work : Printed, Weight Kgs : 0.4, Occasion : Casual,party,wedding]
+2021-04-18 19:37:19,526  INFO [main] TestBase:244 - [Saree Color : Light Blue, Saree Fabric: Georgette, Saree Length : 5.3 mtr, Saree Work : Printed, Blouse Color : Blue, Blouse Fabric : Georgette, Blouse Length : 0.7 mtr, Blouse Work : Printed, Weight Kgs : 0.4, Occasion : Casual,party,wedding]
+2021-04-18 19:37:25,909  INFO [main] TestBase:251 - Page Header Matched::[Saree Color : Light Blue, Saree Fabric: Georgette, Saree Length : 5.3 mtr, Saree Work : Printed, Blouse Color : Blue, Blouse Fabric : Georgette, Blouse Length : 0.7 mtr, Blouse Work : Printed, Weight Kgs : 0.4, Occasion : Casual,party,wedding]
+2021-04-18 19:37:32,587 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-04-18 19:37:32,587 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-04-18 19:37:32,595 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-04-18 19:37:32,595 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-04-18 19:37:32,595 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Akshay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-04-18 19:37:33,126 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-04-18 19:37:33,126 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-04-18 19:37:33,126 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-04-18 19:37:33,126 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-04-18 19:37:33,126 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Akshay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

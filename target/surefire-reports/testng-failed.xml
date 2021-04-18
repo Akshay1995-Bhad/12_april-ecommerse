@@ -9,8 +9,9 @@
       <class name="com.TestCategoriesPage.CategoriesPageTest">
         <methods>
           <include name="tearDown"/>
+          <include name="validToolsInKitchen"/>
+          <include name="validByCategoriElement"/>
           <include name="setUp"/>
-          <include name="validproductDescription"/>
         </methods>
       </class> <!-- com.TestCategoriesPage.CategoriesPageTest -->
     </classes>

@@ -26,7 +26,7 @@ public class TestBase {
 		
 		try {
 			prop=new Properties();
-			FileInputStream ip = new FileInputStream("G:\\mm\\com.OnlineMyPrimeShop.project2\\src\\main\\java\\com\\myprimeshop\\config\\config.properties");
+			FileInputStream ip = new FileInputStream("C:\\Users\\Akshay\\git\\12_april-ecommerse\\src\\main\\java\\com\\myprimeshop\\config\\config.properties");
 		    prop.load(ip);    
 		}catch(FileNotFoundException e) {
 			e.printStackTrace();

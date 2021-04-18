@@ -5,9 +5,19 @@
     <classes>
       <class name="com.TestCategoriesPage.CategoriesPageTest">
         <methods>
-          <include name="tearDown"/>
+          <include name="buyProductValid"/>
+          <include name="validTitle"/>
+          <include name="crossBtn"/>
+          <include name="validWomenProducts"/>
+          <include name="validProductMassagnerDuffle"/>
           <include name="setUp"/>
           <include name="validproductDescription"/>
+          <include name="validCategories"/>
+          <include name="tearDown"/>
+          <include name="validToolsInKitchen"/>
+          <include name="validproductswallet"/>
+          <include name="categoryBtn"/>
+          <include name="validByCategoriElement"/>
         </methods>
       </class> <!-- com.TestCategoriesPage.CategoriesPageTest -->
     </classes>
